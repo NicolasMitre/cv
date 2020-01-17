@@ -63,7 +63,8 @@ footer {
   height: 180px;
   color: orange;
   border-top: 2px solid lightgrey;
-  display: block;
+  display: flex;
+  align-items: center;
   justify-content: space-around;
   font-family: "Century Gothic";
 }
